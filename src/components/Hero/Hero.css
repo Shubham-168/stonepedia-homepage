@@ -1,0 +1,12 @@
+.hero {
+    padding: 2rem;
+    text-align: center;
+    background: linear-gradient(135deg, var(--primary-color), var(--dark-color));
+    color: white;
+  }
+  
+  .cta {
+    padding: 0.5rem 1rem;
+    background-color: white;
+    color: var(--primary-color);
+  }

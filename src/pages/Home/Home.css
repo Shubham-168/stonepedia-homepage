@@ -1,0 +1,12 @@
+.home {
+    padding: 1rem;
+  }
+  
+  .categories {
+    text-align: center;
+  }
+  
+  .category-list {
+    display: flex;
+    gap: 1rem;
+  }
